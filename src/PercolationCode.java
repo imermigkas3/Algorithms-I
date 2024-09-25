@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
-public class Percolation{
+public class PercolationCode{
     //We want to make instance variables private to keep access restricted to the class, which reinforces the idea of data encapsulation
     private boolean[][] sites; //false is closed and true is open
     private WeightedQuickUnionUF uf;
@@ -40,8 +40,8 @@ public class Percolation{
 //                currentNum++;
 //                System.out.println(arr[i][j]);
             }
-        }
-    }
+
+
 
     //Opens the site (row,col) if it is not open already
     // remember that the sites start at (1,1) and not (0,0)
@@ -120,4 +120,4 @@ public class Percolation{
     Percolation(10);
 
     }
-}
+

@@ -17,7 +17,7 @@ public class Percolation{
 
     //creates n-by-n grid, with all sites initially blocked
     public Percolation(int n){
-        sites = new int[n][n]; // all the sites are initialized to false by default
+        sites = new boolean[n][n]; // all the sites are initialized to false by default
         gridDim = n;
         gridSquare = n * n;
         // this will initalize a wquuf grid and will make nodes[i] = i

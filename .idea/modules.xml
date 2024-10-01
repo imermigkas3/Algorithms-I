@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/HW01.iml" filepath="$PROJECT_DIR$/HW01.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Percolation.java.iml" filepath="$PROJECT_DIR$/Percolation.java.iml" />
+>>>>>>> 6cc9e6a47927fec9597d5dee82c7be50b7f2074f
     </modules>
   </component>
 </project>

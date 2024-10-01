@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="98b7e4e3-6e68-43e5-82f8-f0ac68457ca4" name="Changes" comment="" />
+=======
+    <list default="true" id="c335317b-9f11-4d55-ab76-a7949280dc1a" name="Changes" comment="" />
+>>>>>>> 6cc9e6a47927fec9597d5dee82c7be50b7f2074f
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +28,17 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
+<<<<<<< HEAD
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2moQZbbeku6xx4guBQPVM6rSd17" />
+=======
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lJW7D3nBCThM1IWiN4yj6XjpSm" />
+>>>>>>> 6cc9e6a47927fec9597d5dee82c7be50b7f2074f
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -38,6 +49,7 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -47,6 +59,17 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+>>>>>>> 6cc9e6a47927fec9597d5dee82c7be50b7f2074f
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
@@ -54,8 +77,12 @@
     </configuration>
     <configuration name="Percolation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Percolation" />
+<<<<<<< HEAD
       <module name="HW01" />
       <option name="PROGRAM_PARAMETERS" value="5 1 2 2 3 2 2 3 3 4 3 5 3" />
+=======
+      <module name="Percolation.java" />
+>>>>>>> 6cc9e6a47927fec9597d5dee82c7be50b7f2074f
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
